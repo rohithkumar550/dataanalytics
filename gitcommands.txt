@@ -1,5 +1,5 @@
 git init
-git clone
+git clone<rep_url>
 git add.
 git commit -m "anyvalue"
 git push
